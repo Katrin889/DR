@@ -1,0 +1,7 @@
+C:\Users\katri\Documents\My Web Sites\Domashni\ConsoleApp1\zad 51\bin\Debug\zad 51.exe.config
+C:\Users\katri\Documents\My Web Sites\Domashni\ConsoleApp1\zad 51\bin\Debug\zad 51.exe
+C:\Users\katri\Documents\My Web Sites\Domashni\ConsoleApp1\zad 51\bin\Debug\zad 51.pdb
+C:\Users\katri\Documents\My Web Sites\Domashni\ConsoleApp1\zad 51\obj\Debug\zad 5.csproj.AssemblyReference.cache
+C:\Users\katri\Documents\My Web Sites\Domashni\ConsoleApp1\zad 51\obj\Debug\zad 5.csproj.CoreCompileInputs.cache
+C:\Users\katri\Documents\My Web Sites\Domashni\ConsoleApp1\zad 51\obj\Debug\zad 51.exe
+C:\Users\katri\Documents\My Web Sites\Domashni\ConsoleApp1\zad 51\obj\Debug\zad 51.pdb
